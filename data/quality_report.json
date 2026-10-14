@@ -1,0 +1,8 @@
+{
+  "input_file": "data/raw_orders.csv",
+  "rows_read": 2500,
+  "rows_written": 2388,
+  "rows_rejected": 87,
+  "duplicate_rows_removed": 25,
+  "output_file": "data/cleaned_orders.csv"
+}
